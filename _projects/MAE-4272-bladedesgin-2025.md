@@ -3,7 +3,7 @@ layout: project
 title: MAE 4272 Blade Design 
 description: CAD, Fluid Mechanics, and Testing Project
 technologies: [Fusion 360, MATLAB]
-image: /assets/images/signleblade.png
+image: /assets/images/singleblade.png
 ---
 
 For MAE 4272, our project focused on designing, fabricating, and testing a small-scale wind turbine blade optimized to maximize power output in a wind tunnel environment. The blade was designed to operate optimally at 1200 RPM under prescribed geometric, material, and operational constraints, including a maximum radius of 6 inches, maximum chord length of 2 inches, and a hard limit of 2000 RPM. Using Betz-limit blade element theory, we developed an optimized blade geometry and compared its theoretical power output to experimental performance obtained through wind tunnel testing.
